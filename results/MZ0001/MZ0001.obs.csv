@@ -1,0 +1,192 @@
+run_id,obs_value,variable,obs_type,units_x,date,year,doy,dae,sub_plot,valid,class,subclass,data_type,description,label_var,units_y,vector,sim_code,unit_fac,SAMUCA_sim_code,DSSAT_sim_code
+MZ0001,0.23555555600000003,leaf_dw,avg,ton/ha,12/19/2018,2018,353,8,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.6759999999999999,leaf_dw,avg,ton/ha,12/26/2018,2018,360,15,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,1.219111111,leaf_dw,avg,ton/ha,1/2/2019,2019,2,22,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,7.536111111,leaf_dw,avg,ton/ha,1/9/2019,2019,9,29,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.6414444440000002,leaf_dw,avg,ton/ha,1/17/2019,2019,17,37,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.199,leaf_dw,avg,ton/ha,1/23/2019,2019,23,43,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.896777778,leaf_dw,avg,ton/ha,1/31/2019,2019,31,51,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.8662222219999998,leaf_dw,avg,ton/ha,2/7/2019,2019,38,58,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.370666667,leaf_dw,avg,ton/ha,2/14/2019,2019,45,65,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.7694444439999995,leaf_dw,avg,ton/ha,2/21/2019,2019,52,72,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.003888889,leaf_dw,avg,ton/ha,3/1/2019,2019,60,80,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.3261111110000003,leaf_dw,avg,ton/ha,3/8/2019,2019,67,87,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.239555556,leaf_dw,avg,ton/ha,3/14/2019,2019,73,93,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.5,leaf_dw,avg,ton/ha,3/22/2019,2019,81,101,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.37377777799999995,leaf_dw,avg,ton/ha,12/19/2018,2018,353,8,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.735888889,leaf_dw,avg,ton/ha,12/26/2018,2018,360,15,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,1.126444444,leaf_dw,avg,ton/ha,1/2/2019,2019,2,22,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,6.9387777779999995,leaf_dw,avg,ton/ha,1/9/2019,2019,9,29,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.3643333330000003,leaf_dw,avg,ton/ha,1/17/2019,2019,17,37,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.917333333,leaf_dw,avg,ton/ha,1/23/2019,2019,23,43,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.2324444439999995,leaf_dw,avg,ton/ha,1/31/2019,2019,31,51,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.545,leaf_dw,avg,ton/ha,2/7/2019,2019,38,58,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.447666667,leaf_dw,avg,ton/ha,2/14/2019,2019,45,65,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.349222222,leaf_dw,avg,ton/ha,2/21/2019,2019,52,72,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.295,leaf_dw,avg,ton/ha,3/1/2019,2019,60,80,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.070222222,leaf_dw,avg,ton/ha,3/8/2019,2019,67,87,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.092333333,leaf_dw,avg,ton/ha,3/14/2019,2019,73,93,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.329444444,leaf_dw,avg,ton/ha,12/19/2018,2018,353,8,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.9835555559999999,leaf_dw,avg,ton/ha,12/26/2018,2018,360,15,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.559888889,leaf_dw,avg,ton/ha,1/2/2019,2019,2,22,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,7.575888889,leaf_dw,avg,ton/ha,1/9/2019,2019,9,29,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.5624444439999996,leaf_dw,avg,ton/ha,1/17/2019,2019,17,37,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.720222222,leaf_dw,avg,ton/ha,1/23/2019,2019,23,43,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.078111111,leaf_dw,avg,ton/ha,1/31/2019,2019,31,51,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.7041111110000005,leaf_dw,avg,ton/ha,2/7/2019,2019,38,58,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.3114444439999997,leaf_dw,avg,ton/ha,2/14/2019,2019,45,65,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.3539999999999996,leaf_dw,avg,ton/ha,2/21/2019,2019,52,72,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.99,leaf_dw,avg,ton/ha,3/1/2019,2019,60,80,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.9168888889999995,leaf_dw,avg,ton/ha,3/8/2019,2019,67,87,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.625666667,leaf_dw,avg,ton/ha,3/14/2019,2019,73,93,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.0,leaf_dw,avg,ton/ha,3/22/2019,2019,81,101,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.298555556,leaf_dw,avg,ton/ha,12/19/2018,2018,353,8,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.8583333329999999,leaf_dw,avg,ton/ha,12/26/2018,2018,360,15,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,1.060555556,leaf_dw,avg,ton/ha,1/2/2019,2019,2,22,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,6.386111111,leaf_dw,avg,ton/ha,1/9/2019,2019,9,29,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.425555556,leaf_dw,avg,ton/ha,1/17/2019,2019,17,37,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,2.625111111,leaf_dw,avg,ton/ha,1/23/2019,2019,23,43,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.37,leaf_dw,avg,ton/ha,1/31/2019,2019,31,51,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,4.018333333,leaf_dw,avg,ton/ha,2/7/2019,2019,38,58,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.725,leaf_dw,avg,ton/ha,2/14/2019,2019,45,65,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.392111111,leaf_dw,avg,ton/ha,3/1/2019,2019,60,80,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.7005555560000003,leaf_dw,avg,ton/ha,3/8/2019,2019,67,87,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,3.950888889,leaf_dw,avg,ton/ha,3/14/2019,2019,73,93,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD
+MZ0001,0.110444444,stalk_dw,avg,ton/ha,12/19/2018,2018,353,8,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.5437777779999999,stalk_dw,avg,ton/ha,12/26/2018,2018,360,15,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,1.6188888890000002,stalk_dw,avg,ton/ha,1/2/2019,2019,2,22,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,7.387222222,stalk_dw,avg,ton/ha,1/9/2019,2019,9,29,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,3.877,stalk_dw,avg,ton/ha,1/17/2019,2019,17,37,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.774,stalk_dw,avg,ton/ha,1/23/2019,2019,23,43,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.266666667000001,stalk_dw,avg,ton/ha,1/31/2019,2019,31,51,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.183333333,stalk_dw,avg,ton/ha,2/7/2019,2019,38,58,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.659444444,stalk_dw,avg,ton/ha,2/14/2019,2019,45,65,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.917555556,stalk_dw,avg,ton/ha,2/21/2019,2019,52,72,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.779,stalk_dw,avg,ton/ha,3/1/2019,2019,60,80,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.43,stalk_dw,avg,ton/ha,3/8/2019,2019,67,87,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.823888889,stalk_dw,avg,ton/ha,3/14/2019,2019,73,93,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.175555556,stalk_dw,avg,ton/ha,12/19/2018,2018,353,8,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.805111111,stalk_dw,avg,ton/ha,12/26/2018,2018,360,15,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,1.4656666669999998,stalk_dw,avg,ton/ha,1/2/2019,2019,2,22,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,7.047444444,stalk_dw,avg,ton/ha,1/9/2019,2019,9,29,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,4.483666667,stalk_dw,avg,ton/ha,1/17/2019,2019,17,37,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.88,stalk_dw,avg,ton/ha,1/23/2019,2019,23,43,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,7.417666667000001,stalk_dw,avg,ton/ha,1/31/2019,2019,31,51,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.230666667,stalk_dw,avg,ton/ha,2/7/2019,2019,38,58,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,4.2373333330000005,stalk_dw,avg,ton/ha,2/14/2019,2019,45,65,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,3.778444444,stalk_dw,avg,ton/ha,2/21/2019,2019,52,72,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.358222222,stalk_dw,avg,ton/ha,3/1/2019,2019,60,80,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.560555556000001,stalk_dw,avg,ton/ha,3/8/2019,2019,67,87,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.193555556000001,stalk_dw,avg,ton/ha,3/14/2019,2019,73,93,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.277777778,stalk_dw,avg,ton/ha,3/22/2019,2019,81,101,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.14722222199999999,stalk_dw,avg,ton/ha,12/19/2018,2018,353,8,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,1.4438888890000001,stalk_dw,avg,ton/ha,12/26/2018,2018,360,15,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,1.3133333329999999,stalk_dw,avg,ton/ha,1/2/2019,2019,2,22,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,7.735111111,stalk_dw,avg,ton/ha,1/9/2019,2019,9,29,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,4.811222222,stalk_dw,avg,ton/ha,1/17/2019,2019,17,37,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,3.780111111,stalk_dw,avg,ton/ha,1/23/2019,2019,23,43,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.173777778,stalk_dw,avg,ton/ha,1/31/2019,2019,31,51,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,7.700111111,stalk_dw,avg,ton/ha,2/7/2019,2019,38,58,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.385444444,stalk_dw,avg,ton/ha,2/14/2019,2019,45,65,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.013333333,stalk_dw,avg,ton/ha,2/21/2019,2019,52,72,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.329333332999999,stalk_dw,avg,ton/ha,3/1/2019,2019,60,80,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.789555556,stalk_dw,avg,ton/ha,3/8/2019,2019,67,87,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.25,stalk_dw,avg,ton/ha,3/14/2019,2019,73,93,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.1111111110000005,stalk_dw,avg,ton/ha,3/22/2019,2019,81,101,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.135,stalk_dw,avg,ton/ha,12/19/2018,2018,353,8,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.8384444440000001,stalk_dw,avg,ton/ha,12/26/2018,2018,360,15,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,1.449,stalk_dw,avg,ton/ha,1/2/2019,2019,2,22,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.192666667,stalk_dw,avg,ton/ha,1/9/2019,2019,9,29,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,3.902444444,stalk_dw,avg,ton/ha,1/17/2019,2019,17,37,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,4.079888888999999,stalk_dw,avg,ton/ha,1/23/2019,2019,23,43,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,7.245222222000001,stalk_dw,avg,ton/ha,1/31/2019,2019,31,51,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,5.782222222000001,stalk_dw,avg,ton/ha,2/7/2019,2019,38,58,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.392444444,stalk_dw,avg,ton/ha,2/14/2019,2019,45,65,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.2102222220000005,stalk_dw,avg,ton/ha,3/1/2019,2019,60,80,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.060555556000001,stalk_dw,avg,ton/ha,3/8/2019,2019,67,87,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,6.398888889,stalk_dw,avg,ton/ha,3/14/2019,2019,73,93,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,4.8888888889999995,stalk_dw,avg,ton/ha,3/22/2019,2019,81,101,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,
+MZ0001,0.0,grain_dw,avg,ton/ha,12/19/2018,2018,353,8,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/26/2018,2018,360,15,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/2/2019,2019,2,22,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/9/2019,2019,9,29,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/17/2019,2019,17,37,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/23/2019,2019,23,43,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/31/2019,2019,31,51,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,2/7/2019,2019,38,58,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,1.561333333,grain_dw,avg,ton/ha,2/14/2019,2019,45,65,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,5.083111111,grain_dw,avg,ton/ha,2/21/2019,2019,52,72,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,8.467,grain_dw,avg,ton/ha,3/1/2019,2019,60,80,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,9.045,grain_dw,avg,ton/ha,3/8/2019,2019,67,87,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,14.45922222,grain_dw,avg,ton/ha,3/14/2019,2019,73,93,1.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/19/2018,2018,353,8,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/26/2018,2018,360,15,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/2/2019,2019,2,22,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/9/2019,2019,9,29,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/17/2019,2019,17,37,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/23/2019,2019,23,43,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/31/2019,2019,31,51,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,2/7/2019,2019,38,58,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.956777778,grain_dw,avg,ton/ha,2/14/2019,2019,45,65,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,1.646111111,grain_dw,avg,ton/ha,2/21/2019,2019,52,72,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,7.419777777999999,grain_dw,avg,ton/ha,3/1/2019,2019,60,80,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,9.358888889,grain_dw,avg,ton/ha,3/8/2019,2019,67,87,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,11.04611111,grain_dw,avg,ton/ha,3/14/2019,2019,73,93,2.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/19/2018,2018,353,8,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/26/2018,2018,360,15,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/2/2019,2019,2,22,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/9/2019,2019,9,29,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/17/2019,2019,17,37,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/23/2019,2019,23,43,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/31/2019,2019,31,51,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,2/7/2019,2019,38,58,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,2.644444444,grain_dw,avg,ton/ha,2/14/2019,2019,45,65,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,2.903,grain_dw,avg,ton/ha,2/21/2019,2019,52,72,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,8.055111111,grain_dw,avg,ton/ha,3/1/2019,2019,60,80,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,10.00111111,grain_dw,avg,ton/ha,3/8/2019,2019,67,87,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,8.021666667,grain_dw,avg,ton/ha,3/14/2019,2019,73,93,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,10.27777778,grain_dw,avg,ton/ha,3/22/2019,2019,81,101,3.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/19/2018,2018,353,8,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,12/26/2018,2018,360,15,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/2/2019,2019,2,22,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/9/2019,2019,9,29,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/17/2019,2019,17,37,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/23/2019,2019,23,43,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,1/31/2019,2019,31,51,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,0.0,grain_dw,avg,ton/ha,2/7/2019,2019,38,58,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,2.318666667,grain_dw,avg,ton/ha,2/14/2019,2019,45,65,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,6.671555556,grain_dw,avg,ton/ha,3/1/2019,2019,60,80,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,8.168333333,grain_dw,avg,ton/ha,3/8/2019,2019,67,87,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,9.231555556,grain_dw,avg,ton/ha,3/14/2019,2019,73,93,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,9.944444444,grain_dw,avg,ton/ha,3/22/2019,2019,81,101,4.0,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD
+MZ0001,3.392,lai,avg,m2/m2,1/3/2019,2019,3,23,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.5460000000000003,lai,avg,m2/m2,1/10/2019,2019,10,30,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.7969999999999997,lai,avg,m2/m2,1/17/2019,2019,17,37,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.4760000000000004,lai,avg,m2/m2,1/23/2019,2019,23,43,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,5.318,lai,avg,m2/m2,2/1/2019,2019,32,52,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.977,lai,avg,m2/m2,2/14/2019,2019,45,65,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.828,lai,avg,m2/m2,2/21/2019,2019,52,72,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,2.616,lai,avg,m2/m2,3/26/2019,2019,85,105,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.872,lai,avg,m2/m2,1/3/2019,2019,3,23,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.699,lai,avg,m2/m2,1/10/2019,2019,10,30,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.6519999999999997,lai,avg,m2/m2,1/17/2019,2019,17,37,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.579,lai,avg,m2/m2,1/23/2019,2019,23,43,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.9910000000000005,lai,avg,m2/m2,2/1/2019,2019,32,52,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,5.496,lai,avg,m2/m2,2/14/2019,2019,45,65,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.762,lai,avg,m2/m2,2/21/2019,2019,52,72,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.093999999999999,lai,avg,m2/m2,3/26/2019,2019,85,105,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.373,lai,avg,m2/m2,1/3/2019,2019,3,23,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.7310000000000003,lai,avg,m2/m2,1/10/2019,2019,10,30,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.867,lai,avg,m2/m2,1/17/2019,2019,17,37,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,5.521,lai,avg,m2/m2,1/23/2019,2019,23,43,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.8,lai,avg,m2/m2,2/14/2019,2019,45,65,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.643,lai,avg,m2/m2,2/21/2019,2019,52,72,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.4819999999999998,lai,avg,m2/m2,3/26/2019,2019,85,105,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.365,lai,avg,m2/m2,1/3/2019,2019,3,23,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.9360000000000004,lai,avg,m2/m2,1/10/2019,2019,10,30,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,4.601,lai,avg,m2/m2,1/17/2019,2019,17,37,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,7.2,lai,avg,m2/m2,1/23/2019,2019,23,43,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,5.846,lai,avg,m2/m2,2/1/2019,2019,32,52,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.3369999999999997,lai,avg,m2/m2,2/14/2019,2019,45,65,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,5.082,lai,avg,m2/m2,2/21/2019,2019,52,72,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,
+MZ0001,3.845,lai,avg,m2/m2,3/26/2019,2019,85,105,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,

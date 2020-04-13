@@ -1,0 +1,10 @@
+variable,temp_var,type,array,array_id,prec,n_nl,val
+b,<b>,real,F,1,4,0,8.408
+hcap,<hcap>,real,F,1,4,0,1156000
+sm_wilt,<sm_wilt>,real,F,1,4,0,0.2488
+hcon,<hcon>,real,F,1,4,0,0.2055
+sm_crit,<sm_crit>,real,F,1,4,0,0.3917
+satcon,<satcon>,real,F,1,4,0,0.00144
+sathh,<sathh>,real,F,1,4,0,0.6278
+sm_sat,<sm_sat>,real,F,1,4,0,0.4782
+albsoil,<albsoil>,real,F,1,4,0,0.133

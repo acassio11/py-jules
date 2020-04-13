@@ -1,0 +1,10 @@
+&jules_time
+l_360=.false.,
+main_run_end='2019-04-30 06:00:00',
+main_run_start='2018-09-01 06:00:00',
+print_step=48,
+timestep_len=3600,
+/
+&jules_spinup
+max_spinup_cycles=0,
+/
