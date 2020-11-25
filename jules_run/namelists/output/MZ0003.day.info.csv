@@ -1,0 +1,34 @@
+variable,dimensions,units
+time,"('time',)",seconds since 2016-03-01 06:00:00
+time_bounds,"('time', 'nt')",seconds since 2016-03-01 06:00:00
+resp_r,"('time', 'pft', 'y', 'x')",kg m-2 s-1
+resp_l,"('time', 'pft', 'y', 'x')",kg m-2 s-1
+fsmc,"('time', 'pft', 'y', 'x')",1
+resp_w,"('time', 'pft', 'y', 'x')",kg m-2 s-1
+gpp,"('time', 'pft', 'y', 'x')",kg m-2 s-1
+npp,"('time', 'pft', 'y', 'x')",kg m-2 s-1
+resp_p,"('time', 'pft', 'y', 'x')",kg m-2 s-1
+lai,"('time', 'pft', 'y', 'x')",1
+canht,"('time', 'pft', 'y', 'x')",m
+sm_wilt,"('time', 'soil', 'y', 'x')",1
+sm_crit,"('time', 'soil', 'y', 'x')",1
+soil_wet,"('time', 'soil', 'y', 'x')",1
+t_soil,"('time', 'soil', 'y', 'x')",K
+smcl,"('time', 'soil', 'y', 'x')",kg m-2
+tstar,"('time', 'tile', 'y', 'x')",K
+rad_net_tile,"('time', 'tile', 'y', 'x')",W m-2
+le,"('time', 'tile', 'y', 'x')",W m-2
+ftl,"('time', 'tile', 'y', 'x')",W m-2
+fqw,"('time', 'tile', 'y', 'x')",kg m-2 s-1
+gc,"('time', 'tile', 'y', 'x')",m s-1
+t1p5m_gb,"('time', 'y', 'x')",K
+snowfall,"('time', 'y', 'x')",kg m-2 s-1
+snow_grnd_gb,"('time', 'y', 'x')",kg m-2
+snow_depth_gb,"('time', 'y', 'x')",m
+resp_s_gb,"('time', 'y', 'x')",kg m-2 s-1
+precip,"('time', 'y', 'x')",kg m-2 s-1
+smc_tot,"('time', 'y', 'x')",kg m-2
+snow_can_gb,"('time', 'y', 'x')",kg m-2
+sw_down,"('time', 'y', 'x')",W m-2
+longitude,"('y', 'x')",degrees
+latitude,"('y', 'x')",degrees

@@ -1,0 +1,9 @@
+variable,dimensions,units
+time,"('time',)",seconds since 2016-04-01 00:00:00
+harvest_trigger,"('time', 'cpft', 'y', 'x')",1
+harvest_counter,"('time', 'cpft', 'y', 'x')",1
+cropyield,"('time', 'cpft', 'y', 'x')",kg m-2
+cropdvi,"('time', 'cpft', 'y', 'x')",1
+time_bounds,"('time', 'nt')",seconds since 2016-04-01 00:00:00
+latitude,"('y', 'x')",degrees
+longitude,"('y', 'x')",degrees

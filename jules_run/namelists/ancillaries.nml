@@ -14,7 +14,7 @@ var_name='','','','','','','','','',
 &jules_agric
 /
 &jules_crop_props
-const_val=830.0,1005.0,333.0,86.0,
+const_val=830.0,1005.0,128.0,292.0,
 nvars=4,
 use_file=.false.,.false.,.false.,.false.,
 var='cropttveg','cropttrep','cropsowdate','croplatestharvdate',
