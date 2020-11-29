@@ -1494,11 +1494,11 @@ z0hm_classic_pft_io,<z0hm_classic_pft_io>,pft_params.nml,jules_pftparm,real,T,8,
 z0hm_pft_io,<z0hm_pft_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0.1
 allo1_io,<allo1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,3.6
 allo2_io,<allo2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.38
-alpha1_io,<alpha1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,10.3
-alpha2_io,<alpha2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,6.4
+alpha1_io,<alpha1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,9.5
+alpha2_io,<alpha2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,7.6
 alpha3_io,<alpha3_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,11.9
-beta1_io,<beta1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-9.6
-beta2_io,<beta2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-4.4
+beta1_io,<beta1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-8.1
+beta2_io,<beta2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-5.8
 beta3_io,<beta3_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-11.2
 cfrac_l_io,<cfrac_l_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
 cfrac_r_io,<cfrac_r_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
@@ -1514,8 +1514,8 @@ pp_sens_io,<pp_sens_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0
 remob_io,<remob_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.12
 rt_dir_io,<rt_dir_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0
 sen_dvi_io,<sen_dvi_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.4
-t_bse_io,<t_bse_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,281.15
-t_max_io,<t_max_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,315.15
+t_bse_io,<t_bse_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,283.15
+t_max_io,<t_max_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,318.15
 t_mort_io,<t_mort_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,273.15
 t_opt_io,<t_opt_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,303.15
 tt_emr_io,<tt_emr_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,53.4
