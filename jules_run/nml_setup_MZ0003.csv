@@ -1492,8 +1492,8 @@ vint_io,<vint_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0
 vsl_io,<vsl_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,10.24
 z0hm_classic_pft_io,<z0hm_classic_pft_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0.1
 z0hm_pft_io,<z0hm_pft_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0.1
-allo1_io,<allo1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,3.6
-allo2_io,<allo2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.38
+allo1_io,<allo1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,4.07
+allo2_io,<allo2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.59
 alpha1_io,<alpha1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,11.9
 alpha2_io,<alpha2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,12.4
 alpha3_io,<alpha3_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,13.8
@@ -1504,8 +1504,8 @@ cfrac_l_io,<cfrac_l_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
 cfrac_r_io,<cfrac_r_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
 cfrac_s_io,<cfrac_s_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
 crit_pp_io,<crit_pp_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,24
-delta_io,<delta_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-0.34
-gamma_io,<gamma_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,11.2
+delta_io,<delta_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-0.36
+gamma_io,<gamma_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,9.4
 initial_c_dvi_io,<initial_c_dvi_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.1
 initial_carbon_io,<initial_carbon_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,8.00E-04
 mu_io,<mu_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.02
