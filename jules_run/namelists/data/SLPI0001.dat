@@ -1,5 +1,5 @@
 # Soil characteristics for:        JULES-crop with python
 # Source .CSV file used:           /home/d02/acassio/py-jules/sim_db/soil/data_SLPI0001.csv
-# Created by gen_soil_props.py at: 2020-11-29 19:16:34.195981
+# Created by gen_soil_props.py at: 2020-11-30 02:24:47.434310
 # b   hcap   sm_wilt   hcon  sm_crit  satcon sathh  sm_sat  albsoil
 8.408 1.1560E+06 0.2488 0.2055 0.3917 1.4400E-03 0.6278 0.4782 0.133
