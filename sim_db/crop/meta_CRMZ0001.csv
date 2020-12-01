@@ -103,7 +103,7 @@ z0hm_classic_pft_io,<z0hm_classic_pft_io>,pft_params.nml,jules_pftparm,real,T,8,
 z0hm_pft_io,<z0hm_pft_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0.1
 allo1_io,<allo1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,4.1
 allo2_io,<allo2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.59
-alpha1_io,<alpha1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,17.4
+alpha1_io,<alpha1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,17.3
 alpha2_io,<alpha2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,17.6
 alpha3_io,<alpha3_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,18.2
 beta1_io,<beta1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-13.2
