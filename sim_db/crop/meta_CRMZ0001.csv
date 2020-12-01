@@ -101,7 +101,7 @@ vint_io,<vint_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0
 vsl_io,<vsl_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,10.24
 z0hm_classic_pft_io,<z0hm_classic_pft_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0.1
 z0hm_pft_io,<z0hm_pft_io>,pft_params.nml,jules_pftparm,real,T,8,4,0,0.1
-allo1_io,<allo1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,4.07
+allo1_io,<allo1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,4.1
 allo2_io,<allo2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.59
 alpha1_io,<alpha1_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,13.2
 alpha2_io,<alpha2_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,13.3
