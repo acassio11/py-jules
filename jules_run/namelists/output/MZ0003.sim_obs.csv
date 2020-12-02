@@ -1,190 +1,190 @@
 run_id,obs_value,variable,obs_type,units_x,date_obs,year,doy,dae,sub_plot,valid,class,subclass,data_type,description,label_var,units_y,vector,sim_code,unit_fac,SAMUCA_sim_code,DSSAT_sim_code,dap,das,date_sim,sim_value,sim_units
 MZ0003,5.544692307999999,grain_dw,avg,ton_ha,10/19/2016,2016,293,118,,1,plan,biomass,real,Grain Dry Weight,Grain Dry Mass,ton/ha,F,cropharvc,10.0,,GWAD,165,232,2016-10-19 06:00:00,0.0,ton/ha
-MZ0003,0.018652525,lai,avg,m2/m2,05/23/2016,2016,144,16,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.042383846,m2/m2
-MZ0003,0.016620202,lai,avg,m2/m2,05/23/2016,2016,144,16,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.042383846,m2/m2
-MZ0003,0.018616162,lai,avg,m2/m2,05/23/2016,2016,144,16,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.042383846,m2/m2
-MZ0003,0.017689899,lai,avg,m2/m2,05/23/2016,2016,144,16,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.042383846,m2/m2
-MZ0003,0.050980807999999996,lai,avg,m2/m2,05/31/2016,2016,152,24,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.13372548,m2/m2
-MZ0003,0.03549798,lai,avg,m2/m2,05/31/2016,2016,152,24,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.13372548,m2/m2
-MZ0003,0.042158586,lai,avg,m2/m2,05/31/2016,2016,152,24,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.13372548,m2/m2
-MZ0003,0.039131313,lai,avg,m2/m2,05/31/2016,2016,152,24,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.13372548,m2/m2
-MZ0003,0.082737374,lai,avg,m2/m2,06/06/2016,2016,158,30,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.23800111,m2/m2
-MZ0003,0.064939394,lai,avg,m2/m2,06/06/2016,2016,158,30,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.23800111,m2/m2
-MZ0003,0.05011111099999999,lai,avg,m2/m2,06/06/2016,2016,158,30,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.23800111,m2/m2
-MZ0003,0.054848485,lai,avg,m2/m2,06/06/2016,2016,158,30,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.23800111,m2/m2
-MZ0003,0.180843434,lai,avg,m2/m2,06/21/2016,2016,173,45,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1015157,m2/m2
-MZ0003,0.26639596,lai,avg,m2/m2,06/21/2016,2016,173,45,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1015157,m2/m2
-MZ0003,0.166035354,lai,avg,m2/m2,06/21/2016,2016,173,45,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1015157,m2/m2
-MZ0003,0.109056566,lai,avg,m2/m2,06/21/2016,2016,173,45,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1015157,m2/m2
-MZ0003,0.218951515,lai,avg,m2/m2,06/27/2016,2016,179,51,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.6931934,m2/m2
-MZ0003,0.21164141399999997,lai,avg,m2/m2,06/27/2016,2016,179,51,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.6931934,m2/m2
-MZ0003,0.204050505,lai,avg,m2/m2,06/27/2016,2016,179,51,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.6931934,m2/m2
-MZ0003,0.205146465,lai,avg,m2/m2,06/27/2016,2016,179,51,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.6931934,m2/m2
-MZ0003,0.380050505,lai,avg,m2/m2,07/04/2016,2016,186,58,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.5949476,m2/m2
-MZ0003,0.478848485,lai,avg,m2/m2,07/04/2016,2016,186,58,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.5949476,m2/m2
-MZ0003,0.34632828299999996,lai,avg,m2/m2,07/04/2016,2016,186,58,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.5949476,m2/m2
-MZ0003,0.41164040399999996,lai,avg,m2/m2,07/04/2016,2016,186,58,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.5949476,m2/m2
-MZ0003,0.6631565660000001,lai,avg,m2/m2,07/11/2016,2016,193,65,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.5266502,m2/m2
-MZ0003,0.7351868690000001,lai,avg,m2/m2,07/11/2016,2016,193,65,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.5266502,m2/m2
-MZ0003,0.547353535,lai,avg,m2/m2,07/11/2016,2016,193,65,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.5266502,m2/m2
-MZ0003,0.566838384,lai,avg,m2/m2,07/11/2016,2016,193,65,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.5266502,m2/m2
-MZ0003,0.908752525,lai,avg,m2/m2,07/18/2016,2016,200,72,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.3924375,m2/m2
-MZ0003,0.9675909090000001,lai,avg,m2/m2,07/18/2016,2016,200,72,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.3924375,m2/m2
-MZ0003,0.654643434,lai,avg,m2/m2,07/18/2016,2016,200,72,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.3924375,m2/m2
-MZ0003,0.814347475,lai,avg,m2/m2,07/18/2016,2016,200,72,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.3924375,m2/m2
-MZ0003,1.000068687,lai,avg,m2/m2,07/26/2016,2016,208,80,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.3413486,m2/m2
-MZ0003,1.288230303,lai,avg,m2/m2,07/26/2016,2016,208,80,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.3413486,m2/m2
-MZ0003,0.855862626,lai,avg,m2/m2,07/26/2016,2016,208,80,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.3413486,m2/m2
-MZ0003,0.8034343429999999,lai,avg,m2/m2,07/26/2016,2016,208,80,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.3413486,m2/m2
-MZ0003,2.141353535,lai,avg,m2/m2,08/01/2016,2016,214,86,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.005283,m2/m2
-MZ0003,2.624949495,lai,avg,m2/m2,08/01/2016,2016,214,86,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.005283,m2/m2
-MZ0003,2.210787879,lai,avg,m2/m2,08/01/2016,2016,214,86,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.005283,m2/m2
-MZ0003,2.211828283,lai,avg,m2/m2,08/01/2016,2016,214,86,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.005283,m2/m2
-MZ0003,3.1946767680000003,lai,avg,m2/m2,08/11/2016,2016,224,96,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.8632426,m2/m2
-MZ0003,2.944663636,lai,avg,m2/m2,08/11/2016,2016,224,96,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.8632426,m2/m2
-MZ0003,2.9948080810000004,lai,avg,m2/m2,08/11/2016,2016,224,96,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.8632426,m2/m2
-MZ0003,2.576676768,lai,avg,m2/m2,08/11/2016,2016,224,96,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.8632426,m2/m2
-MZ0003,3.413939394,lai,avg,m2/m2,08/18/2016,2016,231,103,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.3251348,m2/m2
-MZ0003,3.0673232319999997,lai,avg,m2/m2,08/18/2016,2016,231,103,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.3251348,m2/m2
-MZ0003,2.9606060610000005,lai,avg,m2/m2,08/18/2016,2016,231,103,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.3251348,m2/m2
-MZ0003,2.299348485,lai,avg,m2/m2,08/18/2016,2016,231,103,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.3251348,m2/m2
-MZ0003,3.9179898989999997,lai,avg,m2/m2,08/26/2016,2016,239,111,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.6559505,m2/m2
-MZ0003,3.159919192,lai,avg,m2/m2,08/26/2016,2016,239,111,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.6559505,m2/m2
-MZ0003,2.986792929,lai,avg,m2/m2,08/26/2016,2016,239,111,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.6559505,m2/m2
-MZ0003,2.9693737369999997,lai,avg,m2/m2,08/26/2016,2016,239,111,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.6559505,m2/m2
-MZ0003,3.460343434,lai,avg,m2/m2,08/30/2016,2016,243,115,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.84413,m2/m2
-MZ0003,3.0560404039999995,lai,avg,m2/m2,08/30/2016,2016,243,115,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.84413,m2/m2
-MZ0003,3.113424242,lai,avg,m2/m2,08/30/2016,2016,243,115,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.84413,m2/m2
-MZ0003,3.0954141410000005,lai,avg,m2/m2,08/30/2016,2016,243,115,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.84413,m2/m2
-MZ0003,3.412212121,lai,avg,m2/m2,09/15/2016,2016,259,131,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.362827,m2/m2
-MZ0003,3.1990707069999997,lai,avg,m2/m2,09/15/2016,2016,259,131,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.362827,m2/m2
-MZ0003,2.693333333,lai,avg,m2/m2,09/15/2016,2016,259,131,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.362827,m2/m2
-MZ0003,2.9209141410000004,lai,avg,m2/m2,09/15/2016,2016,259,131,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.362827,m2/m2
-MZ0003,3.0252626260000004,lai,avg,m2/m2,09/22/2016,2016,266,138,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.7546916,m2/m2
-MZ0003,2.247838384,lai,avg,m2/m2,09/22/2016,2016,266,138,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.7546916,m2/m2
-MZ0003,2.988737374,lai,avg,m2/m2,09/22/2016,2016,266,138,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.7546916,m2/m2
-MZ0003,2.812151515,lai,avg,m2/m2,09/22/2016,2016,266,138,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.7546916,m2/m2
-MZ0003,2.210848485,lai,avg,m2/m2,09/29/2016,2016,273,145,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,5.951931,m2/m2
-MZ0003,1.6851818180000002,lai,avg,m2/m2,09/29/2016,2016,273,145,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,5.951931,m2/m2
-MZ0003,1.456151515,lai,avg,m2/m2,09/29/2016,2016,273,145,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,5.951931,m2/m2
-MZ0003,0.812282828,lai,avg,m2/m2,09/29/2016,2016,273,145,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,5.951931,m2/m2
-MZ0003,0.01068,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009623385,ton/ha
-MZ0003,0.0084,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009623385,ton/ha
-MZ0003,0.00852,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009623385,ton/ha
-MZ0003,0.0078,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009623385,ton/ha
-MZ0003,0.12024000000000001,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.13056059,ton/ha
-MZ0003,0.09804,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.13056059,ton/ha
-MZ0003,0.10704000000000001,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.13056059,ton/ha
-MZ0003,0.0744,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.13056059,ton/ha
-MZ0003,0.48072,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.7902682,ton/ha
-MZ0003,0.45696000000000003,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.7902682,ton/ha
-MZ0003,0.4542,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.7902682,ton/ha
-MZ0003,0.38376,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.7902682,ton/ha
-MZ0003,1.6732799999999999,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.7232065,ton/ha
-MZ0003,1.30824,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.7232065,ton/ha
-MZ0003,1.6380000000000001,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.7232065,ton/ha
-MZ0003,1.27416,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.7232065,ton/ha
-MZ0003,3.10224,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.6133356,ton/ha
-MZ0003,2.75832,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.6133356,ton/ha
-MZ0003,2.8338,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.6133356,ton/ha
-MZ0003,2.5478400000000003,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.6133356,ton/ha
-MZ0003,3.77484,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.8015885,ton/ha
-MZ0003,3.23952,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.8015885,ton/ha
-MZ0003,3.06588,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.8015885,ton/ha
-MZ0003,3.5382,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.8015885,ton/ha
-MZ0003,0.0428,plant_h,avg,m,05/23/2016,2016,144,16,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.051977593,m
-MZ0003,0.0358,plant_h,avg,m,05/23/2016,2016,144,16,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.051977593,m
-MZ0003,0.0396,plant_h,avg,m,05/23/2016,2016,144,16,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.051977593,m
-MZ0003,0.036000000000000004,plant_h,avg,m,05/23/2016,2016,144,16,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.051977593,m
-MZ0003,0.069,plant_h,avg,m,05/31/2016,2016,152,24,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.113434255,m
-MZ0003,0.055999999999999994,plant_h,avg,m,05/31/2016,2016,152,24,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.113434255,m
-MZ0003,0.0564,plant_h,avg,m,05/31/2016,2016,152,24,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.113434255,m
-MZ0003,0.0456,plant_h,avg,m,05/31/2016,2016,152,24,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.113434255,m
-MZ0003,0.1074,plant_h,avg,m,06/06/2016,2016,158,30,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17396186,m
-MZ0003,0.10099999999999999,plant_h,avg,m,06/06/2016,2016,158,30,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17396186,m
-MZ0003,0.106,plant_h,avg,m,06/06/2016,2016,158,30,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17396186,m
-MZ0003,0.086,plant_h,avg,m,06/06/2016,2016,158,30,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17396186,m
-MZ0003,0.136,plant_h,avg,m,06/21/2016,2016,173,45,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.5181388,m
-MZ0003,0.1632,plant_h,avg,m,06/21/2016,2016,173,45,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.5181388,m
-MZ0003,0.1308,plant_h,avg,m,06/21/2016,2016,173,45,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.5181388,m
-MZ0003,0.1268,plant_h,avg,m,06/21/2016,2016,173,45,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.5181388,m
-MZ0003,0.165,plant_h,avg,m,06/27/2016,2016,179,51,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.7091663,m
-MZ0003,0.154,plant_h,avg,m,06/27/2016,2016,179,51,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.7091663,m
-MZ0003,0.142,plant_h,avg,m,06/27/2016,2016,179,51,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.7091663,m
-MZ0003,0.139,plant_h,avg,m,06/27/2016,2016,179,51,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.7091663,m
-MZ0003,0.19699999999999998,plant_h,avg,m,07/04/2016,2016,186,58,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,0.98418885,m
-MZ0003,0.20800000000000002,plant_h,avg,m,07/04/2016,2016,186,58,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,0.98418885,m
-MZ0003,0.184,plant_h,avg,m,07/04/2016,2016,186,58,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,0.98418885,m
-MZ0003,0.1772,plant_h,avg,m,07/04/2016,2016,186,58,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,0.98418885,m
-MZ0003,0.295,plant_h,avg,m,07/11/2016,2016,193,65,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.2692151,m
-MZ0003,0.315,plant_h,avg,m,07/11/2016,2016,193,65,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.2692151,m
-MZ0003,0.27899999999999997,plant_h,avg,m,07/11/2016,2016,193,65,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.2692151,m
-MZ0003,0.267,plant_h,avg,m,07/11/2016,2016,193,65,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.2692151,m
-MZ0003,0.445,plant_h,avg,m,07/18/2016,2016,200,72,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5578078,m
-MZ0003,0.466,plant_h,avg,m,07/18/2016,2016,200,72,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5578078,m
-MZ0003,0.44299999999999995,plant_h,avg,m,07/18/2016,2016,200,72,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5578078,m
-MZ0003,0.36,plant_h,avg,m,07/18/2016,2016,200,72,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5578078,m
-MZ0003,0.6459999999999999,plant_h,avg,m,07/26/2016,2016,208,80,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8679179,m
-MZ0003,0.6594,plant_h,avg,m,07/26/2016,2016,208,80,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8679179,m
-MZ0003,0.504,plant_h,avg,m,07/26/2016,2016,208,80,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8679179,m
-MZ0003,0.45299999999999996,plant_h,avg,m,07/26/2016,2016,208,80,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8679179,m
-MZ0003,0.904,plant_h,avg,m,08/01/2016,2016,214,86,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.117025,m
-MZ0003,1.078,plant_h,avg,m,08/01/2016,2016,214,86,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.117025,m
-MZ0003,0.97,plant_h,avg,m,08/01/2016,2016,214,86,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.117025,m
-MZ0003,0.9259999999999999,plant_h,avg,m,08/01/2016,2016,214,86,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.117025,m
-MZ0003,1.41,plant_h,avg,m,08/11/2016,2016,224,96,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.516461,m
-MZ0003,1.29,plant_h,avg,m,08/11/2016,2016,224,96,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.516461,m
-MZ0003,1.28,plant_h,avg,m,08/11/2016,2016,224,96,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.516461,m
-MZ0003,1.17,plant_h,avg,m,08/11/2016,2016,224,96,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.516461,m
-MZ0003,1.5,plant_h,avg,m,08/18/2016,2016,231,103,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.7827203,m
-MZ0003,1.34,plant_h,avg,m,08/18/2016,2016,231,103,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.7827203,m
-MZ0003,1.33,plant_h,avg,m,08/18/2016,2016,231,103,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.7827203,m
-MZ0003,1.11,plant_h,avg,m,08/18/2016,2016,231,103,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.7827203,m
-MZ0003,1.52,plant_h,avg,m,08/26/2016,2016,239,111,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.0756016,m
-MZ0003,1.42,plant_h,avg,m,08/26/2016,2016,239,111,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.0756016,m
-MZ0003,1.4,plant_h,avg,m,08/26/2016,2016,239,111,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.0756016,m
-MZ0003,1.51,plant_h,avg,m,08/26/2016,2016,239,111,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.0756016,m
-MZ0003,1.58,plant_h,avg,m,08/30/2016,2016,243,115,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.269594,m
-MZ0003,1.44,plant_h,avg,m,08/30/2016,2016,243,115,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.269594,m
-MZ0003,1.4,plant_h,avg,m,08/30/2016,2016,243,115,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.269594,m
-MZ0003,1.37,plant_h,avg,m,08/30/2016,2016,243,115,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.269594,m
-MZ0003,1.58,plant_h,avg,m,09/15/2016,2016,259,131,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.7935417,m
-MZ0003,1.59,plant_h,avg,m,09/15/2016,2016,259,131,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.7935417,m
-MZ0003,1.41,plant_h,avg,m,09/15/2016,2016,259,131,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.7935417,m
-MZ0003,1.62,plant_h,avg,m,09/15/2016,2016,259,131,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.7935417,m
-MZ0003,1.59,plant_h,avg,m,09/22/2016,2016,266,138,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.036451,m
-MZ0003,1.71,plant_h,avg,m,09/22/2016,2016,266,138,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.036451,m
-MZ0003,1.49,plant_h,avg,m,09/22/2016,2016,266,138,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.036451,m
-MZ0003,1.73,plant_h,avg,m,09/22/2016,2016,266,138,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.036451,m
-MZ0003,1.63,plant_h,avg,m,09/29/2016,2016,273,145,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.280995,m
-MZ0003,1.47,plant_h,avg,m,09/29/2016,2016,273,145,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.280995,m
-MZ0003,1.44,plant_h,avg,m,09/29/2016,2016,273,145,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.280995,m
-MZ0003,1.42,plant_h,avg,m,09/29/2016,2016,273,145,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.280995,m
-MZ0003,0.024659999999999998,root_dw,avg,ton_ha,06/13/2016,2016,165,37,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,37,104,2016-06-13 06:00:00,0.010299854,ton/ha
-MZ0003,0.12909,root_dw,avg,ton_ha,07/04/2016,2016,186,58,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,58,125,2016-07-04 06:00:00,0.08956765,ton/ha
-MZ0003,1.31346,root_dw,avg,ton_ha,07/25/2016,2016,207,79,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,79,146,2016-07-25 06:00:00,0.29974633,ton/ha
-MZ0003,1.6873799999999999,root_dw,avg,ton_ha,08/18/2016,2016,231,104,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,103,170,2016-08-18 06:00:00,0.73920095,ton/ha
-MZ0003,0.0066,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.002675243,ton/ha
-MZ0003,0.00312,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.002675243,ton/ha
-MZ0003,0.00456,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.002675243,ton/ha
-MZ0003,0.00156,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.002675243,ton/ha
-MZ0003,0.027839999999999997,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.048693262,ton/ha
-MZ0003,0.0282,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.048693262,ton/ha
-MZ0003,0.03456,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.048693262,ton/ha
-MZ0003,0.02292,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.048693262,ton/ha
-MZ0003,0.23256,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.39096266,ton/ha
-MZ0003,0.23135999999999998,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.39096266,ton/ha
-MZ0003,0.20184000000000002,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.39096266,ton/ha
-MZ0003,0.16835999999999998,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.39096266,ton/ha
-MZ0003,1.3812,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1120515,ton/ha
-MZ0003,1.2243600000000001,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1120515,ton/ha
-MZ0003,1.51032,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1120515,ton/ha
-MZ0003,1.04892,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1120515,ton/ha
-MZ0003,5.14476,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.2760875,ton/ha
-MZ0003,4.58844,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.2760875,ton/ha
-MZ0003,4.4534400000000005,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.2760875,ton/ha
-MZ0003,4.04844,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.2760875,ton/ha
-MZ0003,6.990360000000001,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.8484015,ton/ha
-MZ0003,5.77956,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.8484015,ton/ha
-MZ0003,4.64196,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.8484015,ton/ha
-MZ0003,4.9014,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.8484015,ton/ha
+MZ0003,0.018652525,lai,avg,m2/m2,05/23/2016,2016,144,16,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.043872744,m2/m2
+MZ0003,0.016620202,lai,avg,m2/m2,05/23/2016,2016,144,16,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.043872744,m2/m2
+MZ0003,0.018616162,lai,avg,m2/m2,05/23/2016,2016,144,16,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.043872744,m2/m2
+MZ0003,0.017689899,lai,avg,m2/m2,05/23/2016,2016,144,16,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,16,83,2016-05-23 06:00:00,0.043872744,m2/m2
+MZ0003,0.050980807999999996,lai,avg,m2/m2,05/31/2016,2016,152,24,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.14171122,m2/m2
+MZ0003,0.03549798,lai,avg,m2/m2,05/31/2016,2016,152,24,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.14171122,m2/m2
+MZ0003,0.042158586,lai,avg,m2/m2,05/31/2016,2016,152,24,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.14171122,m2/m2
+MZ0003,0.039131313,lai,avg,m2/m2,05/31/2016,2016,152,24,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,24,91,2016-05-31 06:00:00,0.14171122,m2/m2
+MZ0003,0.082737374,lai,avg,m2/m2,06/06/2016,2016,158,30,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.25417247,m2/m2
+MZ0003,0.064939394,lai,avg,m2/m2,06/06/2016,2016,158,30,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.25417247,m2/m2
+MZ0003,0.05011111099999999,lai,avg,m2/m2,06/06/2016,2016,158,30,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.25417247,m2/m2
+MZ0003,0.054848485,lai,avg,m2/m2,06/06/2016,2016,158,30,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,30,97,2016-06-06 06:00:00,0.25417247,m2/m2
+MZ0003,0.180843434,lai,avg,m2/m2,06/21/2016,2016,173,45,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1779356,m2/m2
+MZ0003,0.26639596,lai,avg,m2/m2,06/21/2016,2016,173,45,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1779356,m2/m2
+MZ0003,0.166035354,lai,avg,m2/m2,06/21/2016,2016,173,45,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1779356,m2/m2
+MZ0003,0.109056566,lai,avg,m2/m2,06/21/2016,2016,173,45,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,45,112,2016-06-21 06:00:00,1.1779356,m2/m2
+MZ0003,0.218951515,lai,avg,m2/m2,06/27/2016,2016,179,51,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.797317,m2/m2
+MZ0003,0.21164141399999997,lai,avg,m2/m2,06/27/2016,2016,179,51,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.797317,m2/m2
+MZ0003,0.204050505,lai,avg,m2/m2,06/27/2016,2016,179,51,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.797317,m2/m2
+MZ0003,0.205146465,lai,avg,m2/m2,06/27/2016,2016,179,51,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,51,118,2016-06-27 06:00:00,1.797317,m2/m2
+MZ0003,0.380050505,lai,avg,m2/m2,07/04/2016,2016,186,58,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.7235897,m2/m2
+MZ0003,0.478848485,lai,avg,m2/m2,07/04/2016,2016,186,58,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.7235897,m2/m2
+MZ0003,0.34632828299999996,lai,avg,m2/m2,07/04/2016,2016,186,58,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.7235897,m2/m2
+MZ0003,0.41164040399999996,lai,avg,m2/m2,07/04/2016,2016,186,58,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,58,125,2016-07-04 06:00:00,2.7235897,m2/m2
+MZ0003,0.6631565660000001,lai,avg,m2/m2,07/11/2016,2016,193,65,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.6637452,m2/m2
+MZ0003,0.7351868690000001,lai,avg,m2/m2,07/11/2016,2016,193,65,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.6637452,m2/m2
+MZ0003,0.547353535,lai,avg,m2/m2,07/11/2016,2016,193,65,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.6637452,m2/m2
+MZ0003,0.566838384,lai,avg,m2/m2,07/11/2016,2016,193,65,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,65,132,2016-07-11 06:00:00,3.6637452,m2/m2
+MZ0003,0.908752525,lai,avg,m2/m2,07/18/2016,2016,200,72,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.524252,m2/m2
+MZ0003,0.9675909090000001,lai,avg,m2/m2,07/18/2016,2016,200,72,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.524252,m2/m2
+MZ0003,0.654643434,lai,avg,m2/m2,07/18/2016,2016,200,72,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.524252,m2/m2
+MZ0003,0.814347475,lai,avg,m2/m2,07/18/2016,2016,200,72,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,72,139,2016-07-18 06:00:00,4.524252,m2/m2
+MZ0003,1.000068687,lai,avg,m2/m2,07/26/2016,2016,208,80,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.4636264,m2/m2
+MZ0003,1.288230303,lai,avg,m2/m2,07/26/2016,2016,208,80,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.4636264,m2/m2
+MZ0003,0.855862626,lai,avg,m2/m2,07/26/2016,2016,208,80,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.4636264,m2/m2
+MZ0003,0.8034343429999999,lai,avg,m2/m2,07/26/2016,2016,208,80,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,80,147,2016-07-26 06:00:00,5.4636264,m2/m2
+MZ0003,2.141353535,lai,avg,m2/m2,08/01/2016,2016,214,86,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.114779,m2/m2
+MZ0003,2.624949495,lai,avg,m2/m2,08/01/2016,2016,214,86,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.114779,m2/m2
+MZ0003,2.210787879,lai,avg,m2/m2,08/01/2016,2016,214,86,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.114779,m2/m2
+MZ0003,2.211828283,lai,avg,m2/m2,08/01/2016,2016,214,86,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,86,153,2016-08-01 06:00:00,6.114779,m2/m2
+MZ0003,3.1946767680000003,lai,avg,m2/m2,08/11/2016,2016,224,96,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.9509416,m2/m2
+MZ0003,2.944663636,lai,avg,m2/m2,08/11/2016,2016,224,96,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.9509416,m2/m2
+MZ0003,2.9948080810000004,lai,avg,m2/m2,08/11/2016,2016,224,96,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.9509416,m2/m2
+MZ0003,2.576676768,lai,avg,m2/m2,08/11/2016,2016,224,96,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,96,163,2016-08-11 06:00:00,6.9509416,m2/m2
+MZ0003,3.413939394,lai,avg,m2/m2,08/18/2016,2016,231,103,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.4011955,m2/m2
+MZ0003,3.0673232319999997,lai,avg,m2/m2,08/18/2016,2016,231,103,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.4011955,m2/m2
+MZ0003,2.9606060610000005,lai,avg,m2/m2,08/18/2016,2016,231,103,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.4011955,m2/m2
+MZ0003,2.299348485,lai,avg,m2/m2,08/18/2016,2016,231,103,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,103,170,2016-08-18 06:00:00,7.4011955,m2/m2
+MZ0003,3.9179898989999997,lai,avg,m2/m2,08/26/2016,2016,239,111,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.721098,m2/m2
+MZ0003,3.159919192,lai,avg,m2/m2,08/26/2016,2016,239,111,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.721098,m2/m2
+MZ0003,2.986792929,lai,avg,m2/m2,08/26/2016,2016,239,111,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.721098,m2/m2
+MZ0003,2.9693737369999997,lai,avg,m2/m2,08/26/2016,2016,239,111,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,111,178,2016-08-26 06:00:00,7.721098,m2/m2
+MZ0003,3.460343434,lai,avg,m2/m2,08/30/2016,2016,243,115,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.905436,m2/m2
+MZ0003,3.0560404039999995,lai,avg,m2/m2,08/30/2016,2016,243,115,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.905436,m2/m2
+MZ0003,3.113424242,lai,avg,m2/m2,08/30/2016,2016,243,115,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.905436,m2/m2
+MZ0003,3.0954141410000005,lai,avg,m2/m2,08/30/2016,2016,243,115,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,115,182,2016-08-30 06:00:00,7.905436,m2/m2
+MZ0003,3.412212121,lai,avg,m2/m2,09/15/2016,2016,259,131,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.4166083,m2/m2
+MZ0003,3.1990707069999997,lai,avg,m2/m2,09/15/2016,2016,259,131,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.4166083,m2/m2
+MZ0003,2.693333333,lai,avg,m2/m2,09/15/2016,2016,259,131,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.4166083,m2/m2
+MZ0003,2.9209141410000004,lai,avg,m2/m2,09/15/2016,2016,259,131,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,131,198,2016-09-15 06:00:00,7.4166083,m2/m2
+MZ0003,3.0252626260000004,lai,avg,m2/m2,09/22/2016,2016,266,138,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.8145046,m2/m2
+MZ0003,2.247838384,lai,avg,m2/m2,09/22/2016,2016,266,138,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.8145046,m2/m2
+MZ0003,2.988737374,lai,avg,m2/m2,09/22/2016,2016,266,138,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.8145046,m2/m2
+MZ0003,2.812151515,lai,avg,m2/m2,09/22/2016,2016,266,138,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,138,205,2016-09-22 06:00:00,6.8145046,m2/m2
+MZ0003,2.210848485,lai,avg,m2/m2,09/29/2016,2016,273,145,1.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,6.0282826,m2/m2
+MZ0003,1.6851818180000002,lai,avg,m2/m2,09/29/2016,2016,273,145,2.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,6.0282826,m2/m2
+MZ0003,1.456151515,lai,avg,m2/m2,09/29/2016,2016,273,145,3.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,6.0282826,m2/m2
+MZ0003,0.812282828,lai,avg,m2/m2,09/29/2016,2016,273,145,4.0,1,plan,morphology,real,Leaf Area Index,LAI,m2/m2,F,croplai,1.0,,,145,212,2016-09-29 06:00:00,6.0282826,m2/m2
+MZ0003,0.01068,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009366749,ton/ha
+MZ0003,0.0084,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009366749,ton/ha
+MZ0003,0.00852,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009366749,ton/ha
+MZ0003,0.0078,leaf_dw,avg,ton_ha,05/23/2016,2016,144,16,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,16,83,2016-05-23 06:00:00,0.009366749,ton/ha
+MZ0003,0.12024000000000001,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.1316239,ton/ha
+MZ0003,0.09804,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.1316239,ton/ha
+MZ0003,0.10704000000000001,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.1316239,ton/ha
+MZ0003,0.0744,leaf_dw,avg,ton_ha,06/13/2016,2016,165,37,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,37,104,2016-06-13 06:00:00,0.1316239,ton/ha
+MZ0003,0.48072,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.77988297,ton/ha
+MZ0003,0.45696000000000003,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.77988297,ton/ha
+MZ0003,0.4542,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.77988297,ton/ha
+MZ0003,0.38376,leaf_dw,avg,ton_ha,07/04/2016,2016,186,58,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,58,125,2016-07-04 06:00:00,0.77988297,ton/ha
+MZ0003,1.6732799999999999,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.6587446,ton/ha
+MZ0003,1.30824,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.6587446,ton/ha
+MZ0003,1.6380000000000001,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.6587446,ton/ha
+MZ0003,1.27416,leaf_dw,avg,ton_ha,07/25/2016,2016,207,79,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,79,146,2016-07-25 06:00:00,1.6587446,ton/ha
+MZ0003,3.10224,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.4826202,ton/ha
+MZ0003,2.75832,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.4826202,ton/ha
+MZ0003,2.8338,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.4826202,ton/ha
+MZ0003,2.5478400000000003,leaf_dw,avg,ton_ha,08/18/2016,2016,231,104,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,103,170,2016-08-18 06:00:00,2.4826202,ton/ha
+MZ0003,3.77484,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,1.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.653468,ton/ha
+MZ0003,3.23952,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,2.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.653468,ton/ha
+MZ0003,3.06588,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,3.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.653468,ton/ha
+MZ0003,3.5382,leaf_dw,avg,ton_ha,09/15/2016,2016,259,131,4.0,1,plan,biomass,real,Leaf Dry Weight,Leaf Dry Mass,ton/ha,F,cropleafc,10.0,dw.lv,LWAD,131,198,2016-09-15 06:00:00,2.653468,ton/ha
+MZ0003,0.0428,plant_h,avg,m,05/23/2016,2016,144,16,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.05152044,m
+MZ0003,0.0358,plant_h,avg,m,05/23/2016,2016,144,16,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.05152044,m
+MZ0003,0.0396,plant_h,avg,m,05/23/2016,2016,144,16,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.05152044,m
+MZ0003,0.036000000000000004,plant_h,avg,m,05/23/2016,2016,144,16,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,16,83,2016-05-23 06:00:00,0.05152044,m
+MZ0003,0.069,plant_h,avg,m,05/31/2016,2016,152,24,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.11441643,m
+MZ0003,0.055999999999999994,plant_h,avg,m,05/31/2016,2016,152,24,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.11441643,m
+MZ0003,0.0564,plant_h,avg,m,05/31/2016,2016,152,24,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.11441643,m
+MZ0003,0.0456,plant_h,avg,m,05/31/2016,2016,152,24,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,24,91,2016-05-31 06:00:00,0.11441643,m
+MZ0003,0.1074,plant_h,avg,m,06/06/2016,2016,158,30,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17680836,m
+MZ0003,0.10099999999999999,plant_h,avg,m,06/06/2016,2016,158,30,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17680836,m
+MZ0003,0.106,plant_h,avg,m,06/06/2016,2016,158,30,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17680836,m
+MZ0003,0.086,plant_h,avg,m,06/06/2016,2016,158,30,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,30,97,2016-06-06 06:00:00,0.17680836,m
+MZ0003,0.136,plant_h,avg,m,06/21/2016,2016,173,45,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.53067476,m
+MZ0003,0.1632,plant_h,avg,m,06/21/2016,2016,173,45,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.53067476,m
+MZ0003,0.1308,plant_h,avg,m,06/21/2016,2016,173,45,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.53067476,m
+MZ0003,0.1268,plant_h,avg,m,06/21/2016,2016,173,45,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,45,112,2016-06-21 06:00:00,0.53067476,m
+MZ0003,0.165,plant_h,avg,m,06/27/2016,2016,179,51,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.72441596,m
+MZ0003,0.154,plant_h,avg,m,06/27/2016,2016,179,51,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.72441596,m
+MZ0003,0.142,plant_h,avg,m,06/27/2016,2016,179,51,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.72441596,m
+MZ0003,0.139,plant_h,avg,m,06/27/2016,2016,179,51,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,51,118,2016-06-27 06:00:00,0.72441596,m
+MZ0003,0.19699999999999998,plant_h,avg,m,07/04/2016,2016,186,58,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,1.0007058,m
+MZ0003,0.20800000000000002,plant_h,avg,m,07/04/2016,2016,186,58,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,1.0007058,m
+MZ0003,0.184,plant_h,avg,m,07/04/2016,2016,186,58,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,1.0007058,m
+MZ0003,0.1772,plant_h,avg,m,07/04/2016,2016,186,58,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,58,125,2016-07-04 06:00:00,1.0007058,m
+MZ0003,0.295,plant_h,avg,m,07/11/2016,2016,193,65,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.285392,m
+MZ0003,0.315,plant_h,avg,m,07/11/2016,2016,193,65,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.285392,m
+MZ0003,0.27899999999999997,plant_h,avg,m,07/11/2016,2016,193,65,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.285392,m
+MZ0003,0.267,plant_h,avg,m,07/11/2016,2016,193,65,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,65,132,2016-07-11 06:00:00,1.285392,m
+MZ0003,0.445,plant_h,avg,m,07/18/2016,2016,200,72,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5729619,m
+MZ0003,0.466,plant_h,avg,m,07/18/2016,2016,200,72,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5729619,m
+MZ0003,0.44299999999999995,plant_h,avg,m,07/18/2016,2016,200,72,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5729619,m
+MZ0003,0.36,plant_h,avg,m,07/18/2016,2016,200,72,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,72,139,2016-07-18 06:00:00,1.5729619,m
+MZ0003,0.6459999999999999,plant_h,avg,m,07/26/2016,2016,208,80,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8828102,m
+MZ0003,0.6594,plant_h,avg,m,07/26/2016,2016,208,80,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8828102,m
+MZ0003,0.504,plant_h,avg,m,07/26/2016,2016,208,80,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8828102,m
+MZ0003,0.45299999999999996,plant_h,avg,m,07/26/2016,2016,208,80,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,80,147,2016-07-26 06:00:00,1.8828102,m
+MZ0003,0.904,plant_h,avg,m,08/01/2016,2016,214,86,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.1322129,m
+MZ0003,1.078,plant_h,avg,m,08/01/2016,2016,214,86,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.1322129,m
+MZ0003,0.97,plant_h,avg,m,08/01/2016,2016,214,86,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.1322129,m
+MZ0003,0.9259999999999999,plant_h,avg,m,08/01/2016,2016,214,86,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,86,153,2016-08-01 06:00:00,2.1322129,m
+MZ0003,1.41,plant_h,avg,m,08/11/2016,2016,224,96,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.5349677,m
+MZ0003,1.29,plant_h,avg,m,08/11/2016,2016,224,96,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.5349677,m
+MZ0003,1.28,plant_h,avg,m,08/11/2016,2016,224,96,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.5349677,m
+MZ0003,1.17,plant_h,avg,m,08/11/2016,2016,224,96,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,96,163,2016-08-11 06:00:00,2.5349677,m
+MZ0003,1.5,plant_h,avg,m,08/18/2016,2016,231,103,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.8061333,m
+MZ0003,1.34,plant_h,avg,m,08/18/2016,2016,231,103,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.8061333,m
+MZ0003,1.33,plant_h,avg,m,08/18/2016,2016,231,103,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.8061333,m
+MZ0003,1.11,plant_h,avg,m,08/18/2016,2016,231,103,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,103,170,2016-08-18 06:00:00,2.8061333,m
+MZ0003,1.52,plant_h,avg,m,08/26/2016,2016,239,111,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.1070347,m
+MZ0003,1.42,plant_h,avg,m,08/26/2016,2016,239,111,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.1070347,m
+MZ0003,1.4,plant_h,avg,m,08/26/2016,2016,239,111,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.1070347,m
+MZ0003,1.51,plant_h,avg,m,08/26/2016,2016,239,111,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,111,178,2016-08-26 06:00:00,3.1070347,m
+MZ0003,1.58,plant_h,avg,m,08/30/2016,2016,243,115,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.308441,m
+MZ0003,1.44,plant_h,avg,m,08/30/2016,2016,243,115,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.308441,m
+MZ0003,1.4,plant_h,avg,m,08/30/2016,2016,243,115,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.308441,m
+MZ0003,1.37,plant_h,avg,m,08/30/2016,2016,243,115,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,115,182,2016-08-30 06:00:00,3.308441,m
+MZ0003,1.58,plant_h,avg,m,09/15/2016,2016,259,131,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.8614454,m
+MZ0003,1.59,plant_h,avg,m,09/15/2016,2016,259,131,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.8614454,m
+MZ0003,1.41,plant_h,avg,m,09/15/2016,2016,259,131,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.8614454,m
+MZ0003,1.62,plant_h,avg,m,09/15/2016,2016,259,131,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,131,198,2016-09-15 06:00:00,3.8614454,m
+MZ0003,1.59,plant_h,avg,m,09/22/2016,2016,266,138,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.128679,m
+MZ0003,1.71,plant_h,avg,m,09/22/2016,2016,266,138,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.128679,m
+MZ0003,1.49,plant_h,avg,m,09/22/2016,2016,266,138,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.128679,m
+MZ0003,1.73,plant_h,avg,m,09/22/2016,2016,266,138,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,138,205,2016-09-22 06:00:00,4.128679,m
+MZ0003,1.63,plant_h,avg,m,09/29/2016,2016,273,145,1.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.410954,m
+MZ0003,1.47,plant_h,avg,m,09/29/2016,2016,273,145,2.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.410954,m
+MZ0003,1.44,plant_h,avg,m,09/29/2016,2016,273,145,3.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.410954,m
+MZ0003,1.42,plant_h,avg,m,09/29/2016,2016,273,145,4.0,1,plan,morphology,real,Plant Height,Plant Height,m,F,cropcanht,1.0,,,145,212,2016-09-29 06:00:00,4.410954,m
+MZ0003,0.024659999999999998,root_dw,avg,ton_ha,06/13/2016,2016,165,37,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,37,104,2016-06-13 06:00:00,0.018021248,ton/ha
+MZ0003,0.12909,root_dw,avg,ton_ha,07/04/2016,2016,186,58,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,58,125,2016-07-04 06:00:00,0.14306101,ton/ha
+MZ0003,1.31346,root_dw,avg,ton_ha,07/25/2016,2016,207,79,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,79,146,2016-07-25 06:00:00,0.4177295,ton/ha
+MZ0003,1.6873799999999999,root_dw,avg,ton_ha,08/18/2016,2016,231,104,,1,plan,biomass,real,Root Dry Weight,Root Dry Mass,ton/ha,F,croprootc,10.0,,RWAD,103,170,2016-08-18 06:00:00,0.8976537,ton/ha
+MZ0003,0.0066,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.0026355162,ton/ha
+MZ0003,0.00312,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.0026355162,ton/ha
+MZ0003,0.00456,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.0026355162,ton/ha
+MZ0003,0.00156,stalk_dw,avg,ton_ha,05/23/2016,2016,144,16,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,16,83,2016-05-23 06:00:00,0.0026355162,ton/ha
+MZ0003,0.027839999999999997,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.050579786,ton/ha
+MZ0003,0.0282,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.050579786,ton/ha
+MZ0003,0.03456,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.050579786,ton/ha
+MZ0003,0.02292,stalk_dw,avg,ton_ha,06/13/2016,2016,165,37,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,37,104,2016-06-13 06:00:00,0.050579786,ton/ha
+MZ0003,0.23256,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.4021476,ton/ha
+MZ0003,0.23135999999999998,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.4021476,ton/ha
+MZ0003,0.20184000000000002,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.4021476,ton/ha
+MZ0003,0.16835999999999998,stalk_dw,avg,ton_ha,07/04/2016,2016,186,58,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,58,125,2016-07-04 06:00:00,0.4021476,ton/ha
+MZ0003,1.3812,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1275027,ton/ha
+MZ0003,1.2243600000000001,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1275027,ton/ha
+MZ0003,1.51032,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1275027,ton/ha
+MZ0003,1.04892,stalk_dw,avg,ton_ha,07/25/2016,2016,207,79,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,79,146,2016-07-25 06:00:00,1.1275027,ton/ha
+MZ0003,5.14476,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.3086412,ton/ha
+MZ0003,4.58844,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.3086412,ton/ha
+MZ0003,4.4534400000000005,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.3086412,ton/ha
+MZ0003,4.04844,stalk_dw,avg,ton_ha,08/18/2016,2016,231,104,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,103,170,2016-08-18 06:00:00,2.3086412,ton/ha
+MZ0003,6.990360000000001,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,1.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.965883,ton/ha
+MZ0003,5.77956,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,2.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.965883,ton/ha
+MZ0003,4.64196,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,3.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.965883,ton/ha
+MZ0003,4.9014,stalk_dw,avg,ton_ha,09/15/2016,2016,259,131,4.0,1,plan,biomass,real,Stalk Dry Weight,Stalk Dry Mass,ton/ha,F,cropstemc,10.0,dw.st,,131,198,2016-09-15 06:00:00,3.965883,ton/ha
