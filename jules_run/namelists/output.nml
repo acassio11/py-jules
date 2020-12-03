@@ -2,7 +2,7 @@
 dump_period=1,
 nprofiles=3,
 output_dir='./output',
-run_id='MZ0003',
+run_id='MZ0004',
 /
 &jules_output_profile
 file_period=0,
@@ -30,7 +30,7 @@ var_name='','','','','','','','',
 file_period=0,
 nvars=4,
 output_main_run=.true.,
-output_start='2016-04-01 00:00:00',
+output_start='2016-05-01 00:00:00',
 output_period=-1,
 output_spinup=.false.,
 output_type='X','A','X','X',

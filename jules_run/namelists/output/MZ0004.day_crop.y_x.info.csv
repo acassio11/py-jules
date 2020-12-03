@@ -1,0 +1,13 @@
+variable,dimensions,units
+time,"('time',)",seconds since 2016-03-01 06:00:00
+cropdvi,"('time', 'cpft', 'y', 'x')",1
+croplai,"('time', 'cpft', 'y', 'x')",1
+cropcanht,"('time', 'cpft', 'y', 'x')",m
+cropharvc,"('time', 'cpft', 'y', 'x')",kg m-2
+cropreservec,"('time', 'cpft', 'y', 'x')",kg m-2
+cropstemc,"('time', 'cpft', 'y', 'x')",kg m-2
+croprootc,"('time', 'cpft', 'y', 'x')",kg m-2
+cropleafc,"('time', 'cpft', 'y', 'x')",kg m-2
+time_bounds,"('time', 'nt')",seconds since 2016-03-01 06:00:00
+latitude,"('y', 'x')",degrees
+longitude,"('y', 'x')",degrees
