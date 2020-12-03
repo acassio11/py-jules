@@ -114,7 +114,7 @@ cfrac_r_io,<cfrac_r_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
 cfrac_s_io,<cfrac_s_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.439
 crit_pp_io,<crit_pp_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,24
 delta_io,<delta_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,-0.27
-gamma_io,<gamma_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,13.4
+gamma_io,<gamma_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,11.6
 initial_c_dvi_io,<initial_c_dvi_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.1
 initial_carbon_io,<initial_carbon_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,8.00E-04
 mu_io,<mu_io>,crop_params.nml,jules_cropparm,real,T,3,4,0,0.02
