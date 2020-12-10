@@ -1,7 +1,7 @@
 &jules_initial
 const_val=0.0,273.15,12.1,0.0,50.0,-2.0,0.0001,0.0,0.0,0.001,0.001,4.0,273.15,0.0,0.7,
 dump_file=.false.,
-file='data/initial_sthuf_MZ0004.dat',
+file='data/initial_sthuf_MZ0002.dat',
 nvars=16,
 total_snow=.true.,
 tpl_name='','','','','','','','','','','','','','','','',
